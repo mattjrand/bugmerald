@@ -10,7 +10,7 @@ Have you always been annoyed that your precious first route bug types get outcla
 Bugmerald Version tasks you with becoming the new Champion in a Hoenn region where only Bug Types are available in the wild. Not to worry, improvements have been made across the board to your favorite Bug Types and the matchup chart and every Bug Type through Gen 9 is available to catch! But at the same time, be careful! The Gym Leaders and E4 have caught wind of the rising Bug Type and they have powerful new teams prepared to take them down. And there may be an even bigger threat brewing behind the mischief of Team Aqua and Magma...
 :
 ```
-Based off RHH's pokeemerald-expansion v1.7.1 https://github.com/rh-hideout/pokeemerald-expansion/
+Based off RHH's pokeemerald-expansion v1.7.2 https://github.com/rh-hideout/pokeemerald-expansion/
 ```
 
 ## What features are included?
@@ -155,5 +155,3 @@ Based off RHH's pokeemerald-expansion v1.7.1 https://github.com/rh-hideout/pokee
     - Fixed overworld snow effect.
 
 There are some mechanics, moves and abilities that are missing and being developed. Check [the project's milestones](https://github.com/rh-hideout/pokeemerald-expansion/milestones) to see which ones.
-
-### Credit to all the awesome people at pokeemerald-expansion! (https://github.com/rh-hideout/pokeemerald-expansion/wiki/Credits) 
